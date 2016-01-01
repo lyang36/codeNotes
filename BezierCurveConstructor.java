@@ -1,5 +1,3 @@
-
-
 package com.yang.drawpad;
 
 import android.graphics.Path;
