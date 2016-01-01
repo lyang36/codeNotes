@@ -4,7 +4,7 @@ import android.graphics.Path;
 import android.graphics.PointF;
 
 /**
- * Use quadratic Bezier line to smooth a hand draw path.
+ * Use quadratic Bezier line to smooth a hand drew path.
  * Created by lyang on 12/31/15.
  */
 public class BezierCurveConstructor {
