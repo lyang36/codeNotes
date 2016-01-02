@@ -54,7 +54,7 @@ public class BezierCurveConstructor {
      *
      * @return
      */
-    Path constructPath() {
+    public Path constructPath() {
         return path;
     }
 
