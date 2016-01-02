@@ -5,7 +5,7 @@ import android.graphics.PointF;
 
 /**
  * Use quadratic Bezier line to smooth a hand drew path. 
- * Note that this has zero second derivatives but the first
+ * Note that this has constant second derivatives but the first
  * derivatives match at the glue points.
  * Created by lyang on 12/31/15.
  */
